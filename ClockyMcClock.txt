@@ -2,8 +2,9 @@ Hallo Anna mal sehen ob das jetzt funktioniert
 !!!!!!!!!!!!!
 Wieso geht das nicht :(
 Es geht doch :)
-<<<<<<< HEAD
 Master oder Branch???
-=======
+
 yeahhh
->>>>>>> origin/master
+
+!!! abfeiern!!!
+
